@@ -7,3 +7,4 @@ while(i<n):
         arr.remove(max(arr))
     i+=1
 print(max(arr))
+
