@@ -8,3 +8,4 @@ if __name__ == '__main__':
     query_name = input()
     marks = student_marks[query_name]
     print("%.2f"%(sum(marks)/3))
+ 
